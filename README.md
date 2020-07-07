@@ -7,6 +7,7 @@ This is a simple python function that is made to convert any Celsius value to fa
 Suzy Kassem once said:
 >“A conscious human is driven by their conscience, not popular opinion.”
 
-Happy Coding!
-Don't forget to follow me on instagram at https://www.instagram.com/thegr8kabeer/
+Happy Coding! :smiley:
+
+And don't forget to follow me on [Twitter](https://twitter.com/thegr8kabeer)
 
